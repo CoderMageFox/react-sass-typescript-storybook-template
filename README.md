@@ -1,4 +1,20 @@
-react-sass-typescript-storybook-template
 
-这是一个react-sass-typescript-storybook脚手架,用于开发React组件,并在storybook+TS的双重保险下保证项目的不腐化.
+# react-sass-typescript-storybook-template
 
+Maybe the only useful template for storybook5,react,sass and Typescript.
+
+![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
+![](https://img.shields.io/apm/l/vim-mode.svg)
+
+
+
+react =>16.8
+
+typescript =>3.4.5
+
+storybook =>5 
+
+jest => 24.7.1
+
+
+ 
